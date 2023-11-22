@@ -1,0 +1,1 @@
+from .ponto_vacinacao import PontoVacinacaoSchema
