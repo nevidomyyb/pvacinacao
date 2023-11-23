@@ -1,1 +1,2 @@
 from .ponto_vacinacao import PontoVacinacaoSchema
+from .ponto_vacinacao_get import PontoVacinacaoGetSchema

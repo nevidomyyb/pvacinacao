@@ -57,4 +57,11 @@ class Bairro(Enum):
     RIACHO_DOCE = 'Riacho Doce'
     PESCARIA = 'Pescaria'
     IPIOCA = 'Ipioca'
+
+    @classmethod
+    def pegar_bairro(cls, string):
+        try:
+            return cls(string)
+        except:
+            return None
     
