@@ -6,5 +6,5 @@ class BairroValidador(validate.Validator):
 
     def __call__(self, valor):
         validos = [i.value for i in Bairro]
-        if valor not in validos:
+        if (valor and valor.value not in validos) or not valor:
             raise ValidationError("Bairro inválido.")
