@@ -6,6 +6,9 @@ Consiste em desenvolver um serviço de busca para pontos de vacinação em Macei
 
 A solução proposta ajuda a listar esses pontos de vacinação, padronizando os dados e centralizando-os em um banco de dados único, também é possível fazer a busca por bairro de Maceió, e o sistema conta com busca de proximidade onde caso não haja ponto de vacinação no bairro buscado, retorna os possíveis pontos nos 2 bairros mais próximos de acordo com a Região Administrativa. [(clique aqui)](https://www.participa.maceio.al.gov.br/participa-maceio/regiaoAdministrativas.faces)
 
+## Representação do sistema como arquitetura ROA
+![Arquitetura](./pVacinacao.drawio.png)
+
 ## Tecnologias usadas
 1. Flask, com flask, flask-smorest e marshmallow
 2. SQLAlchemy para interação com banco de dados
