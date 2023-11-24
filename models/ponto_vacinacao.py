@@ -9,3 +9,13 @@ class PontoVacinacao(db.Model):
     endereco = db.Column(db.String(248), nullable=False)
     horario_expediente = db.Column(db.String(248), nullable=False)
     faixa_etaria = db.Column(db.String(248), nullable=False)
+
+    def to_dict(self):
+        dict_ = {
+            "nome": self.nome,
+            "bairro": self.bairro.value,
+            "endereco": self.endereco,
+            "horario_expediente": self.horario_expediente,
+            "faixa_etaria": self.faixa_etaria
+        }
+        return dict_

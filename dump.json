@@ -1,0 +1,135 @@
+[
+  {
+    "nome": "Unidade de Refer\u00eancia em Sa\u00fade Maria da Concei\u00e7\u00e3o Fonseca Paranhos",
+    "bairro": "Jacarecica",
+    "endereco": "Conj. Alfredo Gaspar de Mendon\u00e7a",
+    "horario_expediente": "Segunda \u00e0 Sexta 8-20:30h",
+    "faixa_etaria": "Adolescentes, adultos e idosos."
+  },
+  {
+    "nome": "Unidade Docente Assistencial (UDA) Professor Gilberto de Macedo",
+    "bairro": "Cidade Universit\u00e1ria",
+    "endereco": "UFAL",
+    "horario_expediente": "Segunda \u00e0 Sexta 8-15:30h",
+    "faixa_etaria": "Crian\u00e7as, adolescentes, adultos e idosos."
+  },
+  {
+    "nome": "\u00c1rea interna do Macei\u00f3 Shopping (Mangabeiras)",
+    "bairro": "Mangabeiras",
+    "endereco": "Shopping Mangabeiras",
+    "horario_expediente": "Segunda \u00e0 S\u00e1bado 9-21h",
+    "faixa_etaria": "Crian\u00e7as, adolescentes, adultos e idosos"
+  },
+  {
+    "nome": "Unidade B\u00e1sica de Sa\u00fade Osvaldo Brand\u00e3o Vilela",
+    "bairro": "Ponta da Terra",
+    "endereco": "R. Lafaiete Pach\u00eaco",
+    "horario_expediente": "Segunda \u00e0 Sexta 8-20:30h",
+    "faixa_etaria": "Adolescentes, adultos e idosos."
+  },
+  {
+    "nome": "\u00c1rea interna do Shopping P\u00e1tio Macei\u00f3",
+    "bairro": "Cidade Universit\u00e1ria",
+    "endereco": "\u00c1rea interna do Shopping P\u00e1tio Macei\u00f3",
+    "horario_expediente": "Segunda a S\u00e1bado 15-21h / Domingo 12-18h",
+    "faixa_etaria": "Crian\u00e7as, adolescentes, adultos e idosos."
+  },
+  {
+    "nome": "Unidade B\u00e1sica de Sa\u00fade Jos\u00e9 Ten\u00f3rio",
+    "bairro": "Serraria",
+    "endereco": "Conj. Jos\u00e9 Ten\u00f3rio",
+    "horario_expediente": "Segunda \u00e0 Sexta 8-20:30h",
+    "faixa_etaria": "Crian\u00e7as, adolescentes, adultos e idosos."
+  },
+  {
+    "nome": "Unidade de Sa\u00fade da Fam\u00edlia Jo\u00e3o Sampaio",
+    "bairro": "Tabuleiro dos Martins",
+    "endereco": "Conj Joao Sampaio",
+    "horario_expediente": "Segunda \u00e0 Sexta 8-20:30h",
+    "faixa_etaria": "Adolescentes, adultos e idosos."
+  },
+  {
+    "nome": "Centro de Atendimento ao Turista (CAT)",
+    "bairro": "Ponta Verde",
+    "endereco": "Praia",
+    "horario_expediente": "Diariamente 15-21h",
+    "faixa_etaria": "Adolescentes, adultos e idosos."
+  },
+  {
+    "nome": "II Centro - Unidade de Refer\u00eancia em Sa\u00fade",
+    "bairro": "Po\u00e7o",
+    "endereco": "Dr. Di\u00f3genes Juc\u00e1 Bernardes, Pra\u00e7a da Maravilha",
+    "horario_expediente": "Segunda \u00e0 Sexta 8-16:30h",
+    "faixa_etaria": "Crian\u00e7as, adolescentes, adultos e idosos"
+  },
+  {
+    "nome": "Unidade de Refer\u00eancia em Sa\u00fade Ib Gatto Falc\u00e3o",
+    "bairro": "Tabuleiro dos Martins",
+    "endereco": "Rua da Floresta",
+    "horario_expediente": "Segunda \u00e0 Sexta 8-16:30h",
+    "faixa_etaria": "Crian\u00e7as, adolescentes, adultos e idosos."
+  },
+  {
+    "nome": "Unidade B\u00e1sica de Sa\u00fade Professor Durval Cortez",
+    "bairro": "Prado",
+    "endereco": "R. Jo\u00e3o L\u00edcio Marqu\u00eas",
+    "horario_expediente": "Segunda \u00e0 Sexta 8-20:30h",
+    "faixa_etaria": "Crian\u00e7as, adolescentes, adultos e idosos."
+  },
+  {
+    "nome": "Unidade de Sa\u00fade da Fam\u00edlia Tereza Barbosa",
+    "bairro": "Cidade Universit\u00e1ria",
+    "endereco": "Conj. Eust\u00e1quio Gomes",
+    "horario_expediente": "Segunda \u00e0 Sexta 8-20:30h",
+    "faixa_etaria": "Crian\u00e7as, adolescentes, adultos e idosos."
+  },
+  {
+    "nome": "Unidade B\u00e1sica de Sa\u00fade Jos\u00e9 Guedes de Farias",
+    "bairro": "Sta. Am\u00e9lia",
+    "endereco": "Santa Amelia",
+    "horario_expediente": "Segunda \u00e0 Sexta 8-20:30h",
+    "faixa_etaria": "Crian\u00e7as, adolescentes, adultos e idosos."
+  },
+  {
+    "nome": "Unidade B\u00e1sica de Sa\u00fade Roland Simon",
+    "bairro": "Vergel do Lago",
+    "endereco": "Vergel do Lago",
+    "horario_expediente": "Segunda \u00e0 Sexta 8-16:30h",
+    "faixa_etaria": "Adolescentes, adultos e idosos."
+  },
+  {
+    "nome": "Unidade B\u00e1sica de Sa\u00fade Arthur Ramos, Conjto. Henrique Equelman",
+    "bairro": "Tabuleiro dos Martins",
+    "endereco": "Conj. Henrique Hequelman, Rua L",
+    "horario_expediente": "Segunda \u00e0 Sexta 8-16:30h",
+    "faixa_etaria": "Adolescentes, adultos e idosos."
+  },
+  {
+    "nome": "Unidade B\u00e1sica de Sa\u00fade Aliomar de Almeida Lins",
+    "bairro": "Benedito Bentes",
+    "endereco": "Av. Corr. Transporte, Moacir Andrade",
+    "horario_expediente": "Segunda \u00e0 Sexta 8-20:30h",
+    "faixa_etaria": "Crian\u00e7as, adolescentes, adultos e idosos."
+  },
+  {
+    "nome": "Unidade de Refer\u00eancia em Sa\u00fade Pitanguinha",
+    "bairro": "Pintanguinha",
+    "endereco": "Rua Ant\u00f4nio Nogueira",
+    "horario_expediente": "Segunda \u00e0 Sexta 8-20:30h",
+    "faixa_etaria": "Crian\u00e7as, adolescentes, adultos e idosos."
+  },
+  {
+    "nome": "Unidade de Refer\u00eancia em Sa\u00fade Jo\u00e3o Paulo II",
+    "bairro": "Jacintinho",
+    "endereco": "Rua Manoel Viana de Oliveira",
+    "horario_expediente": "Segunda \u00e0 Sexta 8-16:30h",
+    "faixa_etaria": "Adolescentes, adultos e idosos."
+  },
+  {
+    "nome": "Unidade B\u00e1sica de Sa\u00fade Dr. Ant\u00f4nio de P\u00e1dua",
+    "bairro": "Jardim Petr\u00f3polis",
+    "endereco": "Alameda Carmelita Omena de Farias",
+    "horario_expediente": "Segunda \u00e0 Sexta 8-20:30h",
+    "faixa_etaria": "Adolescentes, adultos e idosos."
+  }
+]
