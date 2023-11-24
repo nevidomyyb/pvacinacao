@@ -51,19 +51,23 @@ flask db migrate
    
 ## Utilização
 Para utilizar a aplicação para enviar o e-mail você pode usar as endpoints no método POST:
-1. ```/api/send_mail/```
-Para enviar o e-mail utilizando o sistema de verificação de serviço disponível
-2. ```/api/send_mail/flask/```
-Para enviar o e-mail utilizando o serviço de SMTPLib
-3. ```/api/send_mail/aws/```
-Para enviar o e-mail utilizando o serviço da Amazon Simple Email Service
+1. ```/pontos/```
+Para get ou post
+* GET aceita "bairro" como query param.
+2. ```/ponto/{uuid}```
+Para get, put ou delete.
+* GET retorna o ponto de vacinação especificado.
+* PUT atualiza o ponto de vacinação com dados enviados no BODY.
+* DELETE deleta a informação do ponto de vacinação.
 
 ### Definição do body
 Requer que o body seja um JSON
 ```
 {
-  "body": "Mensagem do e-mail",
-  "subject": "Assunto do e-mail",
-  "to": "Destinatário do e-mail",
+  "nome": "string",
+  "bairro": "string",
+  "endereco": "string",
+  "horario_expediente": "string",
+  "faixa_etaria": "string"
 }
 ```
