@@ -52,7 +52,7 @@ flask db migrate
 
 9. Rodar o servidor da aplicação utilizando o comando ```flask run```
 
-##Como popular o banco de dados
+## Como popular o banco de dados
 Após configurar o ambiente e certificar-se que está rodando podemos popular o banco com o comando:
 ```
 python manage.py load
