@@ -51,6 +51,13 @@ flask db migrate
 ```
 
 9. Rodar o servidor da aplicação utilizando o comando ```flask run```
+
+##Como popular o banco de dados
+Após configurar o ambiente e certificar-se que está rodando podemos popular o banco com o comando:
+```
+python manage.py load
+```
+Ele utilizará o dump.json para criar os registros no banco de dados.
    
 ## Utilização
 Para utilizar a aplicação para enviar o e-mail você pode usar as endpoints no método POST:
